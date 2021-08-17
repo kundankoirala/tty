@@ -1,4 +1,6 @@
 main()
 {
-system.out.println("hello kundu")
+system.out.println("hello kundu");
+system.out.println("yes sir");
+system.out.println("no sir");
 }
